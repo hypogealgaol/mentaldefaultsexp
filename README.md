@@ -1,4 +1,5 @@
-This is the main executable (~2000 lines) for the mental defaults experiment I worked on over the summer with base code
-written by Stephan 
+This is the mental defaults experiment I worked on over the summer with base code
+written by Stephan Countryman of Yale Cognition & Development Lab.
 
-Note to self: get dependencies for this
+Feeds through Amazon Mechanical Turk sending a user the experiment, then uses the previous user's
+response and feeds it to the next user like a game of telephone. 
